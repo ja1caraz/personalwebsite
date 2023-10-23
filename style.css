@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: silver;
+    padding: 1rem 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: green;
+    font-size: 25px;
+}
+
+.theme {
+    text-align: left;
+    padding: 2rem;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
