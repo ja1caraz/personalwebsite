@@ -16,6 +16,10 @@ This website consists of three main sections:
 
  A portfolio showcasing projects with descriptions and links.
 
+ **Contact Page**
+
+ A input to contact me and to record message.
+
 ## Features
 
 - Correct Syntax: The code for a functional website
