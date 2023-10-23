@@ -2,7 +2,7 @@
 
 This website serves as a platform to introduce myself, showcase my work, and share my interests with you.
 
-This website consists of three main sections:
+This website consists of Four main sections:
 
 **Home Page**
 
